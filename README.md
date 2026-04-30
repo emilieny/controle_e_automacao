@@ -4,6 +4,7 @@ Repositório destinado ao desenvolvimento do Estudo Dirigido da disciplina de Co
 
 ## Integrantes
 - Emilieny de Souza Silva
+- Euler Pereira Sobral
 
 ## Estrutura
 O projeto está dividido em 4 etapas:
